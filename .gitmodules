@@ -1,3 +1,12 @@
 [submodule "vis_3rdparty/zpp_bits/src"]
 	path = vis_3rdparty/zpp_bits/src
 	url = git@github.com:Rascalpirate/zpp_bits.git
+[submodule "vis_3rdparty/spdlog/src"]
+	path = vis_3rdparty/spdlog/src
+	url = git@github.com:Rascalpirate/spdlog.git
+[submodule "vis_3rdparty/cctz/src"]
+	path = vis_3rdparty/cctz/src
+	url = git@github.com:Rascalpirate/cctz.git
+[submodule "vis"]
+	path = vis
+	url = git@github.com:Rascalpirate/vis.git

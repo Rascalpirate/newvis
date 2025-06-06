@@ -1,0 +1,10 @@
+*.user*
+*.autosave
+.qtc_clangd
+.git
+.qmake2cmake
+.out
+out
+.vs/*
+!.vs/launch.vs.json
+CMakeLists.txt.user
