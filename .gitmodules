@@ -1,0 +1,3 @@
+[submodule "vis_3rdparty/zpp_bits/src"]
+	path = vis_3rdparty/zpp_bits/src
+	url = git@github.com:Rascalpirate/zpp_bits.git
